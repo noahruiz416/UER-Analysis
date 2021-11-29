@@ -8,6 +8,7 @@ Understand how UER and UI are associated between states that support Unemploymen
 
 ## Hypothesis:
 Null Hypothesis: No association between UER and UI
+
 Alternate Hypothesis: There is an association between UER and UI
 
 ## Method:
